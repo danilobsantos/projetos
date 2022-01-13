@@ -8,3 +8,5 @@ git remote add origin “link do repositório remoto” (linka o repositório lo
 git push -u origin main (envia arquivos do repositório local para o remoto)
 git pull (atualiza o repositório local a partir do remoto)
 git clone “link do repositório” (clona o repositório do link para a sua máquina)
+
+Usar o git e o github é super legal.
